@@ -5,12 +5,34 @@ Applied Mathematics for Machine Learning - A comprehensive course covering essen
 ## 📚 Course Contents
 
 ### Section 1: Probability & Statistics
-- **Notebook 1**: Descriptive Statistics & Probability Theory
-- **Notebook 2**: Probability Distributions & Hypothesis Testing
 
-### Section 2: Linear Algebra  
 - **Notebook 3**: Linear Algebra Essentials for ML
+### Section 1: Probability & Statistics
+- **Section1_Notebook1.ipynb**: Descriptive Statistics & Probability Theory
+- **Section1_Notebook2.ipynb**: Probability Distributions & Hypothesis Testing
 
+### Section 2: Linear Algebra
+- **Section2_Notebook3.ipynb**: Linear Algebra Essentials for ML
+
+### Section 3: Calculus
+- **Section3_Notebook4.ipynb**: Derivatives & Gradients for Optimization
+- **Section3_Solution4.ipynb**: Calculus Solutions
+
+### Section 4: Optimization
+- **Section4_Notebook5.ipynb**: Optimization Methods in ML
+- **Section4_Solution5.ipynb**: Optimization Solutions
+
+### Section 5: Numerical Methods
+- **Section5_Notebook6.ipynb**: Numerical Methods for ML
+- **Section5_Solution6.ipynb**: Numerical Methods Solutions
+
+### Section 6: Advanced Topics
+- **Section6_Notebook7.ipynb**: Advanced Mathematics for ML
+- **Section6_Solutions7.ipynb**: Advanced Topics Solutions
+
+### Section 7: Applications & Case Studies
+- **Section7_Notebook8.ipynb**: ML Applications & Case Studies
+- **Section7_Solutions8.ipynb**: Applications Solutions
 ### Section 3: Calculus (Coming Soon)
 - **Notebook 4**: Derivatives & Gradients for Optimization
 
